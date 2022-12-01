@@ -1,1 +1,2 @@
-# Estadistica-descriptiva-en-Python-con-Big-Data
+# Estadistica descriptiva en Python con Big Data
+## Estadística descriptiva
